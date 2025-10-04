@@ -5,15 +5,7 @@ This Power BI dashboard gives an overview of data professionals’ demographics,
 It helps understand trends in the data field, including favorite programming languages, average salary, and work–life balance.  
 
 ## 📂 Dataset Used  
-- Country of survey takers  
-- Age  
-- Gender  
-- Job Title  
-- Salary  
-- Favorite Programming Language  
-- Happiness with Work/Life Balance  
-- Happiness with Salary  
-
+File: <a href="https://github.com/O-ASwIN-O/Excel_Dashboard/blob/main/Excel%20Project%20Dataset.xlsx">DATASET</a>
 ---
 
 ## ❓ Questions Answered  
