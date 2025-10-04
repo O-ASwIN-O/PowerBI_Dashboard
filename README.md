@@ -40,7 +40,7 @@ File: <a href="https://github.com/O-ASwIN-O/PowerBI_Dashboard/blob/main/Power%20
 ---
 
 ## 📷 Dashboard  
-![Dashboard]()  
+![Dashboard](PowerBI_Dashboard)  
 
 ---
 
