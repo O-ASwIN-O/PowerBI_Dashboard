@@ -48,7 +48,7 @@ It helps understand trends in the data field, including favorite programming lan
 ---
 
 ## 📷 Dashboard  
-![Dashboard](Screenshot%202025-10-04%20215950.png)  
+![Dashboard](PowerBI_Dashboard.png)  
 
 ---
 
